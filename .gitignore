@@ -1,0 +1,12 @@
+*.xls
+*.xlsx
+*.docx
+*.pdf
+*.zip
+
+*.csv
+models/
+release/
+.ipynb_checkpoints
+
+*.pyc
